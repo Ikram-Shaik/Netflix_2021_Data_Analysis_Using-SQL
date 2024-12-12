@@ -1,4 +1,4 @@
-# Netflix Titles SQL Analysis
+# Netflix Data Analysis Using SQL
 
 ## Project Overview
 This project focuses on analyzing a dataset of Netflix titles using SQL to derive meaningful insights and answer various queries. The analysis demonstrates proficiency in SQL operations such as filtering, aggregation, string manipulation, window functions, and stored procedures. The dataset contains attributes like title, type, director, cast, country, rating, duration, and more, offering a rich source for data exploration and analysis.

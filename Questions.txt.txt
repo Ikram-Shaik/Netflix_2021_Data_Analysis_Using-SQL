@@ -1,0 +1,18 @@
+1. Write a query to list all titles with their show_id, title, and type.
+2. Write a query to display all columns for titles that are Movies.
+3. Write a query to list TV shows that were released in the year 2021.
+4. Write a query to find all titles where the description contains the word family.
+5. Write a query to count the total number of titles in the dataset.
+6. Write a query to find the average duration of all movies (in minutes, wherever the season is mentioned, consider 400 minutes per season).
+7. Write a query to list the top 5 latest titles based on the date_added, sorted in descending order.
+8. Write a query to list all titles along with the number of other titles by the same director. Include columns for show_id, title, director, and number_of_titles_by_director.
+9. Write a query to find the total number of titles for each country. Display country and the count of titles.
+10. Write a query using a CASE statement to categorize titles into three categories based on their rating: Family for ratings G, PG, PG-13, Kids for TV-Y, TV-Y7, TV-G, and Adult for all other ratings.
+11. Write a query to add a new column title_length to the titles table that calculates the length of each title.
+12. Write a query using an advanced function to find the title with the longest duration in minutes.
+13. Create a view named RecentTitles that includes titles added in the last 30 days.
+14. Write a query using a window function to rank titles based on their release_year within each country.
+15. Write a query to calculate the cumulative count of titles added each month sorted by date_added.
+16. Write a stored procedure to update the rating of a title given its show_id and new rating.
+17. Write a query to find the country with the highest average rating for titles. Use subqueries and aggregate functions to achieve this.
+18. Write a query to find pairs of titles from the same country where one title has a higher rating than the other. Display columns for show_id_1, title_1, rating_1, show_id_2, title_2, and rating_2.
